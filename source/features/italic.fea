@@ -1711,7 +1711,7 @@ feature zero {
   sub zero by zero.zero;
 } zero;
 feature cv01 {
-  # sub Q by Q.cv01;
+  sub Q by Q.cv01;
   # sub ampersand by ampersand.cv01;
   # sub ampersand_ampersand.liga by ampersand_ampersand.liga.cv01;
   # sub ampersand_ampersand_ampersand.liga by ampersand_ampersand_ampersand.liga.cv01;
